@@ -1,2 +1,2 @@
 readme file for my git folder
-lalalalalalala
+Edited from another window - collaborator
